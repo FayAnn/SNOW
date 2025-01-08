@@ -1,0 +1,17 @@
+System Application> Studio > create application> follow prompts Note: new scope and update set will populate
+create new table to store the data
+Configure Auto Number for table: configure>table>controls>check autonumber> prefix >Number >#of digits
+Design the form for the application using form layout, form design, and form builder
+Split columns
+configure choices for all choice fields
+configure labels 
+configure default value for status field > configure dictionary > default value section> 
+Configure list view > click on 3 dots for column choices
+
+
+Remember All the labels are stored in:  Field label [ sys_documentation]
+sys_dictionary- stores all dictionaries
+sys_db_object-  stores all the tables
+
+
+
