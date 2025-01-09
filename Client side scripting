@@ -1,0 +1,3 @@
+glide user api: provides methods and non-method properties for finding information about the currently logged in user and their roles.
+
+g_user is an object.  In this object you have some methods
