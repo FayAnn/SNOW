@@ -7,6 +7,11 @@ configure choices for all choice fields
 configure labels 
 configure default value for status field > configure dictionary > default value section> 
 Configure list view > click on 3 dots for column choices
+Configure dependent fields like city is dependent on country. click on field>configure dictionary>advance view> dependent field
+> choose the parent field > then go to dependent field > configure choices.
+Auto populate fields based on chosen fields:  at top banner> configure> form layout > choose field > expand the field> move to right column. save
+Configure custom data lookup rule
+
 
 
 Remember All the labels are stored in:  Field label [ sys_documentation]
